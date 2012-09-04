@@ -1,0 +1,5 @@
+# Rename this file to 'config.yml' and add your own
+# configuration settings.
+staging:
+  logger: 'log/rutucore.log'
+
