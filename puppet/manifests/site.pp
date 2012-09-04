@@ -4,3 +4,4 @@ Exec {
 
 include rutucore
 include ntp
+include redis
